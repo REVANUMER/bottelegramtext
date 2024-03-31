@@ -1,0 +1,7 @@
+import telebot
+import time
+from telebot import types
+from telebot.types import Message
+from telebot.types import InlineKeyboardMarkup
+from telebot.types import InlineKeyboardButton
+token_pkk = "6970106186:AAEa_oMR17J9u9LbPR5_pVtWqFXmkUrdUPg"
